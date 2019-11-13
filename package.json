@@ -1,0 +1,8 @@
+{
+  "name": "GossVS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GossJS/gossvs.git",
+  "author": "gossoudarev <goss@itmo.ru>",
+  "license": "MIT"
+}
